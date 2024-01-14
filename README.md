@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Vadaliya</h1>
-<h3 align="center">Creative web developer dedicated to building and optimizing the performance of user-centric, high-impact websites for nationwide and global companies. Leverage technical, analytical and problem-solving skills to create dynamic, high-speed websites using NodeJs.</h3>
+<h3 align="center">Creative web developer dedicated to building and optimizing the performance of user-centric, high-impact websites. Leverage technical, analytical and problem-solving skills to create dynamic, high-speed websites using NodeJs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshVadaliya&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh Vadaliya" /> </p>
 
