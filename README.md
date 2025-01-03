@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshVadaliya&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh Vadaliya" /> </p>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **AI/ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
